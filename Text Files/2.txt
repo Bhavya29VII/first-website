@@ -1,2 +1,6 @@
 This is my 2.txt
+<<<<<<< HEAD
 this is parent
+=======
+this is parent file.
+>>>>>>> 6c1b086ba8df6c2ffe52844ce37eb790ac02c7de
